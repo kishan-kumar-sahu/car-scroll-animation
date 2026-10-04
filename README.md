@@ -1,7 +1,7 @@
 # Car Scroll Animation — React + GSAP
 
 A responsive React recreation of the reference scroll interaction at:
-https://github.com/kishan-kumar-sahu/car-scroll-animation
+https://car-scroll-animation-sand.vercel.app/
 
 ## Features
 

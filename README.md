@@ -1,7 +1,7 @@
 # Car Scroll Animation — React + GSAP
 
 A responsive React recreation of the reference scroll interaction at:
-https://paraschaturvedi.github.io/car-scroll-animation/
+https://github.com/kishan-kumar-sahu/car-scroll-animation
 
 ## Features
 
@@ -49,12 +49,7 @@ npm run dev
 
 Vite will print a local address, usually `http://localhost:5173`.
 
-## Production build
 
-```bash
-npm run build
-npm run preview
-```
 
 ## Change the car image
 

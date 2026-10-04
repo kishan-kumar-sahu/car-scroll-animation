@@ -80,8 +80,3 @@ const CAR_IMAGE = '/car.png';
 
 Push the project to GitHub, import it in Vercel, and use the default Vite settings.
 
-### Netlify
-
-Build command: `npm run build`
-
-Publish directory: `dist`
